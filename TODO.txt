@@ -1,0 +1,3 @@
+TODO:
+- Acomodar la camara para que sea estatica
+- Que se mueva el cubo y no la camara usando los controles de movimiento
